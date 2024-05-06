@@ -1,0 +1,35 @@
+/* .bottom-part{
+    background-color: #000;
+    width: 100vw;
+    height: 250px;
+    position: absolute;
+    bottom: 0;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 50px;
+    background-color: aqua;
+    height: 80%;
+    width: 80vw;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+#exclusive{
+    font-weight: 600;
+    font-family: sans-serif;
+}
+#email-logo{
+    position: relative;
+    right: 20px;
+    top: 3px;
+}
+#email-box{
+    height: 30px;
+    background: #000;
+    color: aliceblue;
+}
+#support{
+    font-weight: 600;
+    font-family: sans-serif;
+} */

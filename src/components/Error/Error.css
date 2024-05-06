@@ -1,0 +1,28 @@
+.error-content{
+    position: absolute;
+    left: 35rem;
+    top: 5rem;
+}
+#error-404{
+    position: relative;
+    left: 20px;
+    font-size: 50px;
+    color: rgb(81, 81, 209);
+    
+}
+#error-description{
+    position: relative;
+    left: -110px;
+    top: 20px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+#back-to-home{
+    background-color:rgb(58, 58, 201);
+    border: none;
+    height: 50px;
+    position: relative;
+    left: 35rem;
+    top: 15rem;
+    cursor: pointer;
+}

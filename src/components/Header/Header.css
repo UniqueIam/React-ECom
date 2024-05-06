@@ -1,0 +1,53 @@
+.upper-portion{
+    width: 100vw;
+    height: 50px;
+    /* background-color: rgb(187, 147, 147); */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+}
+.middle{
+    font-weight: 500;
+    font-size: 20px;
+    display: flex;
+    margin-right: 20px;
+    gap: 60px;
+}
+#company-logo{
+    width: 50px;
+    margin-left: 10px;
+}
+#log-in-button{
+    border: 1px solid black;
+    background: rgb(191, 191, 218);
+    color: #272121;
+}
+#cart-button{
+    width: 80px;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.cart-total-number{
+    width: 20px;
+    background-color: rgb(202, 15, 31);
+    color: #fff;
+    position: relative;
+    right: 6px;
+    top: -10px;
+    border-radius: 50%;
+}
+.mobile-navbar-btn{
+    display: none;
+    background: transparent;
+}
+
+.right{
+    display: flex;
+}
+.search-area{
+    margin-right: 50px;
+}
+#search-box{
+    height: 30px;
+}
